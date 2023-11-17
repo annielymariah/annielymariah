@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=annielymariah&show_icons=true&theme=radical&bg_color=000000&text_color=ffffff&title_color=e13233&icon_color=543e63&border_color=1c1c24" alt="GitHub Stats Illustration">
 
-<!--
-**annielymariah/annielymariah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  <strong>🎩 About Me</strong>
+</h2>
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+![Twitter](https://img.shields.io/twitter/follow/annielymariah)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ♣️ Experience with API quality tests & Software quality assurance
+- ♦️ Languages & Technologies: Python, Java, Javascript with K6
+- ♠️ Contact me from annielyms@gmail.com
+<hr>
+
+<h6 align="center">
+Let's roll the dice and see where the journey takes us! 🎲
+</h6>
