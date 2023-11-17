@@ -4,9 +4,6 @@
   <strong>🎩 About Me</strong>
 </h2>
 
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-![Twitter](https://img.shields.io/twitter/follow/annielymariah)
-
 - ♣️ Experience with API quality tests & Software quality assurance
 - ♦️ Languages: Python, Java, Javascript with K6, Mocha and Chai
 - ♠️ Contact me from annielyms@gmail.com
