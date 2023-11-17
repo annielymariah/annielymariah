@@ -9,8 +9,6 @@
 - ♠️ Contact me from annielyms@gmail.com
 <hr>
 
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-![Twitter](https://img.shields.io/twitter/follow/annielymariah)
 <h6 align="center">
 Let's roll the dice and see where the journey takes us! 🎲
 </h6>
