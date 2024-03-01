@@ -4,9 +4,11 @@
   <strong>About Me </strong>
 </h2>
 
-- ♥️ Experience with API quality tests & Software quality assurance
-- 🕹️ Languages: Python, Java, Javascript with K6, Mocha and Chai
-- 💌 Contact me from annielyms@gmail.com
+♥️ Experience with API quality tests & Software quality assurance
+
+🕹️ Languages: Python, Java, Javascript with K6, Mocha and Chai
+
+💌 Contact me from annielyms@gmail.com
 <hr>
 
 <h6 align="center">
