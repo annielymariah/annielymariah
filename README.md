@@ -16,7 +16,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=annielymariah&show_icons=true&bg_color=0d1117&text_color=76c376&title_color=9d4edd&icon_color=9d4edd&border_color=3d355e&hide_border=true&include_all_commits=true" alt="GitHub Stats">
 
 #### 🛸 Tech Signals I Transmit
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript & Python
+- **Languages:** HTML5, CSS3, JavaScript & TypeScript
 - **Frameworks & Tools:** React, Vite, TailwindCSS, Bootstrap, Zod
 
 #### 🪐 Control Panels I Operate
