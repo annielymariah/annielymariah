@@ -25,5 +25,5 @@
 ---
 
 <h6 align="center">
-  Transmitted from the stars: the answer to Life, the Universe, and Everything is <strong>42</strong>.
+  Transmitted from the stars: the answer to Life, the Universe and Everything is <strong>42</strong>.
 </h6>
