@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1027385935333171220/1460274768350810142/IMG_20260112_111021.png?ex=6966525b&is=696500db&hm=a9d2661b8147200604e36aed3e06b0a74b2aafcb614d8bfcb40850642c093ded&=&format=webp&quality=lossless" 
        alt="Frieren Theme Banner"
-       width="60%" style="border-radius:12px;">
+       width="67%">
 </p>
 <p align="center">
   <em>Mage of the front-end collecting memories, spells and lines of code through endless journeys.</em>
