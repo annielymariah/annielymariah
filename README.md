@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:annielyms@gmail.com"><img src="https://img.shields.io/badge/Gmail-2fbf71?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/annielymariah/"><img src="https://img.shields.io/badge/Instagram-2ec4b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:annielyms@gmail.com" target="_blank><img src="https://img.shields.io/badge/Gmail-2fbf71?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/annielymariah/" target="_blank><img src="https://img.shields.io/badge/Instagram-2ec4b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/annielymariah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-219ebc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
