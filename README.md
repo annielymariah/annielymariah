@@ -1,29 +1,36 @@
-<h2 align="center">
-  <strong>👾 About Me</strong>
-</h2>
-
 <p align="center">
-  Front-end Developer & Project ‒ Manager ‒ Navigator<br>
-  <em>On a mission through code, design and interstellar collaboration</em> 👽
+  <img src="https://media.discordapp.net/attachments/1027385935333171220/1460274768350810142/IMG_20260112_111021.png?ex=6966525b&is=696500db&hm=a9d2661b8147200604e36aed3e06b0a74b2aafcb614d8bfcb40850642c093ded&=&format=webp&quality=lossless" 
+       alt="Frieren Theme Banner"
+       width="60%" style="border-radius:12px;">
+</p>
+<p align="center">
+  <em>Mage of the front-end collecting memories, spells and lines of code through endless journeys.</em>
 </p>
 
 <p align="center">
-  <a href="mailto:annielyms@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/annielymariah.dev/"><img src="https://img.shields.io/badge/Instagram-8a2be2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/annielymariah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6a1b9a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:annielyms@gmail.com"><img src="https://img.shields.io/badge/Gmail-2fbf71?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/annielymariah.dev/"><img src="https://img.shields.io/badge/Instagram-2ec4b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/annielymariah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-219ebc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=annielymariah&show_icons=true&bg_color=0d1117&text_color=76c376&title_color=9d4edd&icon_color=9d4edd&border_color=3d355e&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+<div align="left" width=50%> 
+  
+#### 📜 Grimoires I Study
+- **Languages**
+  - HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks & Spells**
+  - React, Vite, TailwindCSS, Bootstrap, Zod, Yup
 
-#### 🛸 Tech Signals I Transmit
-- **Languages:** HTML5, CSS3, JavaScript & TypeScript
-- **Frameworks & Tools:** React, Vite, TailwindCSS, Bootstrap, Zod
+</div>
 
-#### 🪐 Control Panels I Operate
-- Git & GitHub | Figma | Jira | Linear
+#### 🧭 Relics in My Bag
+- **Collaboration & Design**
+  - Figma, Jira, Linear
+- **Versioning & Workflow**
+  - Git & GitHub
 
 ---
 
 <h6 align="center">
-  Transmitted from the stars: the answer to Life, the Universe and Everything is <strong>42</strong>.
+  “Frieren levará nossas memórias para o futuro” – Himmel
 </h6>
