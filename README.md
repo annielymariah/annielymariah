@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/annielymariah/annielymariah/blob/main/banner_icon.png" 
        alt="Frieren Theme Banner"
-       width="80%">
+       width="75%">
 </p>
 <p align="center">
   <em>Mage of the front-end collecting memories, spells and lines of code through endless journeys.</em>
